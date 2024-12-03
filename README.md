@@ -20,6 +20,8 @@ Clone this repository to your local machine:
 git clone https://github.com/poorva9/car-classification
 cd car-classification
 ```
+-Download Model from https://drive.google.com/file/d/1duR13J9aXVjqdMCRfAtnjORiOUKkMrdr/view?usp=sharing , add it to the root folder (too large to be added into github repo)
+-Access Dataset from https://www.kaggle.com/datasets/jessicali9530/stanford-cars-dataset 
 
 ### 2. Build the Docker Image
 
