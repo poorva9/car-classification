@@ -17,8 +17,8 @@ Follow the steps below to build and run the Docker container, and interact with 
 Clone this repository to your local machine:
 
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone <https://github.com/poorva9/car-classification>
+cd <car-classification>
 ```
 
 ### 2. Build the Docker Image
