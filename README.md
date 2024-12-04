@@ -74,7 +74,7 @@ Follow these steps to generate a car classification prediction from the API:
 4. In the `image_path` field, enter the absolute path to the image you want to classify in **Unix format** (e.g., `/app/cars_train/cars_train/08141.jpg`).
 
    - If your images are located inside the Docker container, ensure the `image_path` matches the container's file system.
-   - Example: For an image stored in `C:/Users/poorv/Downloads/car_classification/cars_train/08141.jpg`, the corresponding path inside the container might be `/app/cars_train/cars_train/08141.jpg`.
+   - Example: For an image stored in `C:/Users/poorv/Downloads/car_classification/cars_train/cars_train/08141.jpg`, the corresponding path inside the container might be `/app/cars_train/cars_train/08141.jpg`.
 
 5. Click `Execute` to send the request to the API.
 
